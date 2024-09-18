@@ -4,9 +4,6 @@
 ✉️contact me at deguchiarte@gmail.com
 ⭐my pronouns are she/her.
 
-<div>
-        <a href="https://github.com/Dayguchi/DayanneEguchi">
-
+<div> <a href="https://github.com/Dayguchi/DayanneEguchi">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
-
-    </div>
+</a> </div>
