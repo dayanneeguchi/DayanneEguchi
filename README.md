@@ -1,14 +1,14 @@
 😊Hi! I am Dayanne Eguchi
 😎Graphic Designer & Developer in Progress
 🧠I am studying front-end, back-end development and UX design. 
-✉️contact me at deguchiarte@gmail.com
+✉️contact me at dayguchitec@gmail.com
 ⭐my pronouns are she/her.
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">😊Hi! I am Dayanne Eguchi <br>😎Graphic Designer & Developer in Progress <br>🧠Studying Front-end, Back-end development and Google UX Design <br>✉️Contact me at deguchiarte@gmail.com <br>⭐My pronouns are she/her.</p>
+<p align="left">😊Hi! I am Dayanne Eguchi <br>😎Graphic Designer & Developer in Progress <br>🧠Studying Front-end, Back-end development and Google UX Design <br>✉️Contact me at dayguchitec@gmail.com <br>⭐My pronouns are she/her.</p>
 
 ###
 
